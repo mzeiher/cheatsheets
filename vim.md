@@ -137,6 +137,8 @@ See [Operators](#operators) for other things you can do.
 
 | `fc`  | Go forward to character `c`  |
 | `Fc`  | Go backward to character `c` |
+| `tc`  | Go forward to the character before character `c`  |
+| `Tc`  | Go backward to character after character `c` |
 {: .-shortcuts}
 
 ### Document
